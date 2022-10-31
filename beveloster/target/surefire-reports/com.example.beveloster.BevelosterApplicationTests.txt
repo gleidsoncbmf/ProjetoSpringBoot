@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.beveloster.BevelosterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.405 s - in com.example.beveloster.BevelosterApplicationTests
